@@ -8,7 +8,7 @@
 
 - `tasks.ipynb` — ноутбук с заданиями для самостоятельного выполнения  
 - `tasks_solution.ipynb` — ноутбук с ответами и примерами решений  
-- `sample_superstore.csv` — исходный датасет  
+- `Sample - Superstore.csv` — исходный датасет  
 
 ---
 
