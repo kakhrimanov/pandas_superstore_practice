@@ -38,7 +38,7 @@
 Датасет основан на открытых данных из Kaggle:  
 https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
 
-В рамках репозитория используется версия `sample_superstore.csv`.
+В рамках репозитория используется версия `Sample - Superstore.csv`.
 
 ---
 
